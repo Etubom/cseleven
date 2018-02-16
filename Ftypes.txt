@@ -1,0 +1,9 @@
+//Function declarations
+function square(number) {
+  return number * number;
+}
+
+//Function expressions
+var square = function(number) {
+return number * number;
+ };
